@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h+mMWQQVMkDnpPDl9V52lE1xt0n6jv2y1AEhXisjnQFABiOfEG/YV4YheyfJkuiUWyKVI+4yMBNa5fnjBnSZLw==",
+  "success": true,
+  "projectFilePath": "/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/delegate-playground.csproj",
+  "expectedPackageFiles": [
+    "/Users/ruwaniperera/.nuget/packages/microsoft.netcore.app.ref/6.0.21/microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/ruwaniperera/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.21/microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "/Users/ruwaniperera/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.21/microsoft.netcore.app.host.osx-arm64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

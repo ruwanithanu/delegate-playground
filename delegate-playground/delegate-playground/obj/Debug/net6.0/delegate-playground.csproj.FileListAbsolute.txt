@@ -1,0 +1,14 @@
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/bin/Debug/net6.0/delegate-playground
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/bin/Debug/net6.0/delegate-playground.deps.json
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/bin/Debug/net6.0/delegate-playground.runtimeconfig.json
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/bin/Debug/net6.0/delegate-playground.dll
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/bin/Debug/net6.0/delegate-playground.pdb
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/obj/Debug/net6.0/delegate-playground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/obj/Debug/net6.0/delegate-playground.AssemblyInfoInputs.cache
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/obj/Debug/net6.0/delegate-playground.AssemblyInfo.cs
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/obj/Debug/net6.0/delegate-playground.csproj.CoreCompileInputs.cache
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/obj/Debug/net6.0/delegate-playground.dll
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/obj/Debug/net6.0/refint/delegate-playground.dll
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/obj/Debug/net6.0/delegate-playground.pdb
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/obj/Debug/net6.0/delegate-playground.genruntimeconfig.cache
+/Users/ruwaniperera/Workspace/training/delegate-playground/delegate-playground/obj/Debug/net6.0/ref/delegate-playground.dll
